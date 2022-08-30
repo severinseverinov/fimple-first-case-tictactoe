@@ -1,6 +1,6 @@
 Fimple React Practicum
 
-<strong>2-) Tic Tac Toe</strong>
+<strong>Tic Tac Toe</strong>
 
 
 3x3, 9 kutudan oluşan bir yapı tasarlanacak.
